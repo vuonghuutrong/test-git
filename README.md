@@ -1,2 +1,3 @@
 # test-git
-đây là commit dưới local
+- đây là commit dưới local
+- dòng này sửa trên remote
